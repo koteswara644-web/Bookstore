@@ -96,11 +96,21 @@ const books = [
   },
 
   {
-    id: "4",
+    id: "11",
     title: "The Alchemist",
     narrator: "koteswararao",
     duration: "4h 20m",
     cover: "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSpUUQqYjK8j9qf1GhDES9xP9ds_mhHxFuwQBQC_2iJPe4DZAuNnGbmSrNbDmvvKgfsiJk-3KhBWmlM3pxJ09t7IMQq9nfB0PHxY5qOEnw6jvkQR3TXoUg9dQ",
+    desc: "A fable about following your dreams.",
+    audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3"
+  },
+
+  {
+    id: "12",
+    title: "The Alchemist",
+    narrator: "koteswararao",
+    duration: "4h 20m",
+    cover: "https://static01.nyt.com/images/2019/11/21/books/best-books-2019/best-books-2019-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
     desc: "A fable about following your dreams.",
     audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3"
   },
